@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="hint_digitar_lembrete">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="lembrete_list_text">#232323</color>
+</resources>

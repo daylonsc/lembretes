@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lembretes</string>
+    <string name="action_settings">Configurações</string>
+    <string name="label_novo_lembrete">Novo Lembrete</string>
+    <string name="label_editar_lembrete">Editar Lembrete</string>
+    <string name="hint_digitar_lembrete">Digite um lembrete!</string>
+</resources>
